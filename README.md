@@ -37,16 +37,13 @@ Data Processing: PyPDF, BeautifulSoup, Requests
 Environment: python-dotenv
 
 ⚙️ Installation
-git clone https://github.com/your-username/multi-rag-system.git
-cd multi-rag-system
-
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate  # Mac/Linux
 
 pip install -r requirements.txt
-🔑 Environment Setup
 
+🔑 Environment Setup
 Create a .env file:
 
 MISTRAL_API_KEY=your_api_key_here
