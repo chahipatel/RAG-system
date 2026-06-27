@@ -4,7 +4,7 @@
 
 Multi source RAG system is a Retrieval Augmented Generation (RAG) application that enables intelligent question answering over custom knowledge sources including PDF documents and web URLs.
 
-It combines LangChain, ChromaDB, HuggingFace Embeddings, and Mistral AI to build an end to end AI pipeline that converts unstructured data into searchable vector knowledge and generates context-aware responses using an LLM.
+It combines LangChain, ChromaDB, HuggingFace Embeddings, and Mistral AI to build an end to end AI pipeline that converts unstructured data into searchable vector knowledge and generates context aware responses using an LLM.
 
 ✨ Key Features
 
@@ -16,16 +16,16 @@ Unified preprocessing pipeline
 🔍 Semantic Search Engine
 ChromaDB vector database
 HuggingFace embeddings (all-MiniLM-L6-v2)
-MMR-based retrieval for better context diversity
+MMR based retrieval for better context diversity
 
 🤖 AI-Powered Answer Generation
 Mistral LLM integration
-Retrieval-grounded responses
+Retrieval grounded responses
 Reduced hallucination through context enforcement
 
 💬 Conversation Memory
 Chat history support
-Follow-up question handling
+Follow up question handling
 Context-aware responses
 
 🧰 Tech Stack
